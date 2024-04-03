@@ -4,6 +4,8 @@
 
 [THEME](https://cdn.dribbble.com/userupload/12912238/file/original-c80c637d3ae697bb753dfcf7ed84006a.jpg?resize=1905x1429)
 
-[COLOR PALETTE](https://colorhunt.co/palette/2650732d95969ad0c2f1fada)
+<!-- [COLOR PALETTE](https://colorhunt.co/palette/2650732d95969ad0c2f1fada) -->
 
 [To push in origin: git push --set-upstream origin test ]
+run command
+frontend and backend:npm run dev
